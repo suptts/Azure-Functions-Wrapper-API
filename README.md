@@ -20,5 +20,11 @@ echo "source ~/.venv/bin/activate" >> .bashrc
 
 source ~/.venv/bin/activate
 ```
-
-I need to highlight these ==very important words==.
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
