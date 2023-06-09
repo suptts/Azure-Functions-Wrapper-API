@@ -19,7 +19,7 @@ This is learning python project for tts devops2023
 
 ตัวอย่าง venv.sh แบบง่าย
 
-```python
+```bash
 #!/usr/bin/env bash
 
 python3 -m venv ~/.venv
