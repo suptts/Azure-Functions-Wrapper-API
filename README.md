@@ -31,6 +31,33 @@ source ~/.venv/bin/activate
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
+## Quick start
+
+Some text
+
+- Instruction 1
+- Instruction 2
+- Instruction 3
+
+## Status
+
+Here goes all the budgets
+
+## What's included
+
+Some text
+
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
+
 ## Thanks
 
 Some Text
