@@ -50,7 +50,7 @@ Here goes all the budgets
 Some text
 
 ```text
-folder1/
+tests/
 └── folder2/
     ├── folder3/
     │   ├── file1
