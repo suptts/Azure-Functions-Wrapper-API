@@ -1,5 +1,16 @@
 [![Python application test with Github Actions](https://github.com/suptts/tts-python-fundamental/actions/workflows/testing_ci.yml/badge.svg)](https://github.com/suptts/tts-python-fundamental/actions/workflows/testing_ci.yml)
 
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
+
 # tts-python-fundamental
 This is learning python project for tts devops2023
 
@@ -20,16 +31,6 @@ echo "source ~/.venv/bin/activate" >> .bashrc
 
 source ~/.venv/bin/activate
 ```
-## Table of contents
-
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
