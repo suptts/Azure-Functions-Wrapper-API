@@ -11,7 +11,7 @@
 This is learning python project for tts devops2023
 
 * ให้ clone project มาที่เครื่องเรา 
-``` 
+```bash
 git clone https://github.com/suptts/tts-python-fundamental.git
 ```
 * เข้าไปใน project folder `cd tts-python-fundamental`
