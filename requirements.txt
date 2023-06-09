@@ -6,3 +6,4 @@ ipython
 click
 pandas
 openai
+azure-functions
