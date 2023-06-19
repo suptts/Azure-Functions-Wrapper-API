@@ -28,21 +28,9 @@ echo "source ~/.venv/bin/activate" >> .bashrc
 source ~/.venv/bin/activate
 ```
 
-## Quick start
+## โครงสร้าง files และ folder structure ของ Project ที่เราจะ develop  
 
-Some text
-
-- Instruction 1
-- Instruction 2
-- Instruction 3
-
-## Status
-
-Here goes all the budgets
-
-## What's included
-
-Some text
+ตัวอย่าง 
 
 ```text
 tests/
