@@ -59,7 +59,11 @@ tests/
 
 Some Text
 
-## Build Solutions and AI Apps with ChatGPT
+## Build Solutions and AI Apps with OpenAI (GPT-3, Codex, DALL-E)
+
+เราจะนำเอา ChatGPT มาใช้งานที่เกี่ยวกับ Business
+
+
 
 
 Enjoy :metal:
