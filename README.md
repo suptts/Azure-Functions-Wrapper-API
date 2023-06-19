@@ -43,10 +43,6 @@ tests/
         └── file4
 ```
 
-## Thanks
-
-Some Text
-
 ## Build Solutions and AI Apps with OpenAI (GPT-3, Codex, DALL-E)
 
 เราจะนำเอา ChatGPT มาใช้เพื่อทำ Business Solutions เป็นการเรียนรู้และนำ Technology มาใช้งานจริง
