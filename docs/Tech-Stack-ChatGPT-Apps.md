@@ -12,4 +12,14 @@ Front-end จะ connect มาที่ Back-end ตัวอย่าง Back-
 
 ## 3. Wrapper API
 
+โดยที่ Wrapper API นี้จะเป็นการ wrap ตัว OpenAI API อีกที 
 
+ตัวอย่างเช่น เราสร้าง web application เพื่อให้ user สร้าง cover letter ดังนั้นที่ Front-end อาจจะมี JavaScript ที่เป็น TextBox ให้ user พิมพ์ข้อความ จากนั้น Front-end ก็จะติดต่อไปที่ Back-end เพื่อส่งต่อไปยัง Wrapper API แล้วข้อมูลที่ user พิมพ์มาก็จะถูกส่งไปยัง OpenAI API 
+
+## 4. OpenAI API
+
+ซึ่งใน OpenAI API นี้ก็จะมี API ที่ช่วยให้เรา access models ต่างๆที่มีใน ChatGPT เช่น GPT-3 Model 
+
+## 5. GPT-3 Model
+
+จากนั้น GPT-3 Model ที่ hosted อยู่ใน OpenAI server ก็จะทำการประมวลผล compute และ provide response กลับมาจนถึง Front-end
