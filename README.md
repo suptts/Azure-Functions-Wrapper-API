@@ -61,8 +61,16 @@ Some Text
 
 ## Build Solutions and AI Apps with OpenAI (GPT-3, Codex, DALL-E)
 
-เราจะนำเอา ChatGPT มาใช้งานที่เกี่ยวกับ Business
+เราจะนำเอา ChatGPT มาใช้เพื่อทำ Business Solutions เป็นการเรียนรู้และนำ Technology มาใช้งานจริง
 
+## Roadmap
+
+เราจะเรียนรู้เกี่ยวกับ
+
+- OpenAI และ ChatGPT
+- การ setup development environment
+- การ create serverless wrapper API with ChatGPT
+- การ Integrate ChatGPT เข้ากับ platform ต่างๆเพื่อทำเป็น Business Solutions
 
 
 
