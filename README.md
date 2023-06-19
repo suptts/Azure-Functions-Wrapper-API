@@ -59,7 +59,8 @@ tests/
 
 Some Text
 
-## Sup
+## Build Solutions and AI Apps with ChatGPT
+
 
 Enjoy :metal:
 
