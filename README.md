@@ -60,6 +60,6 @@ tests/
 
 Enjoy :metal:
 
-Here's a sentence with a footnote. [^1]
+ให้ดูเนื้อหาใน docs โฟล์เดอร์. [^1]
 
 [^1]: This is the footnote.
