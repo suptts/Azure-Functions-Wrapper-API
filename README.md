@@ -28,6 +28,36 @@ echo "source ~/.venv/bin/activate" >> .bashrc
 source ~/.venv/bin/activate
 ```
 
+## Step 1: Install the Required Python Version
+```
+brew install python@3.8
+Python has been installed as
+  /opt/homebrew/bin/python3.8 
+brew install python@3.9
+Python has been installed as
+  /opt/homebrew/bin/python3.9
+brew install python@3.10
+brew install python@3.11
+```
+
+## Step 2: Create a Virtual Environment
+```
+virtualenv -p /opt/homebrew/bin/python3.8  myenv3.8
+source myenv3.8/bin/activate
+python -V
+deactivate
+
+virtualenv -p /opt/homebrew/bin/python3.9  myenv3.9
+source myenv3.9/bin/activate
+python -V
+deactivate
+
+virtualenv -p /opt/homebrew/bin/python3.10  myenv3.10
+source myenv3.10/bin/activate
+python –V
+deactivate
+```
+
 ## โครงสร้าง files และ folder structure ของ Project ที่เราจะ develop  
 
 ตัวอย่าง 
