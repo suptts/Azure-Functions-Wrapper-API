@@ -32,12 +32,12 @@ source ~/.venv/bin/activate
 ```
 brew install python@3.8
 Python has been installed as
-  /opt/homebrew/bin/python3.8 
+  /opt/homebrew/bin/python3.8
 brew install python@3.9
 Python has been installed as
-  /opt/homebrew/bin/python3.9
+  /opt/homebrew/bin/python3.9
 brew install python@3.10
-brew install python@3.11
+brew install python@3.11
 ```
 
 ## Step 2: Create a Virtual Environment
